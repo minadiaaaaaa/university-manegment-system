@@ -1,0 +1,20 @@
+# Compiled output
+bin/
+obj/
+
+# Database (generated at runtime)
+*.db
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+
+# OS
+Thumbs.db
+.DS_Store
