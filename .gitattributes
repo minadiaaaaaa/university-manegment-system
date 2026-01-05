@@ -1,2 +1,3 @@
 *.c linguist-vendored
-cpp_sis-1*/cpp_sis/sqlite3.* linguist-vendored
+*.o linguist-vendored
+sqlite3.* linguist-vendored
